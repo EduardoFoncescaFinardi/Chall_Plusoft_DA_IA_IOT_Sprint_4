@@ -30,3 +30,4 @@ Para iniciar o projeto, siga os passos abaixo:
 Dentro da pasta raiz, você encontrará todos os arquivos relacionados ao projeto. Note que os arquivos `sprint_4_ia_iot.py` e `SPRINT_4_IA_IOT.ipynb` estão incluídos principalmente para fins de consulta. Caso não tenha interesse em explorar o projeto por outros meios, sinta-se à vontade para ignorá-los.
 
 ---
+# LINK DEO VÍDEO DE EXPLICAÇÃO DO PROJETO
