@@ -31,3 +31,4 @@ Dentro da pasta raiz, você encontrará todos os arquivos relacionados ao projet
 
 ---
 # LINK DO VÍDEO DE EXPLICAÇÃO DO PROJETO
+https://youtu.be/rXMFPZ0FHLQ?feature=shared
